@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PruebaProAmerica/1.0.0": {
+        "runtime": {
+          "PruebaProAmerica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PruebaProAmerica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

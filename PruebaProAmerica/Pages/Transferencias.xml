@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<transferences>
+<transfer>
+  <systemname>buytransfer323</systemname>
+  <localisation>0101</localisation>
+  <clientid>112Bgfddd44888t43ZT6</clientid>
+  <mount>563.32GTQ</mount>
+  <destinataryid>112Bg644f44968t4CVB</destinataryid>
+  <mediacard>visa</mediacard>
+</transfer>
+<transfer>
+  <systemname>buytransfer324</systemname>
+  <localisation>0104</localisation>
+  <clientid>66688hgioPPL8t43ZT6</clientid>
+  <mount>1000.00GTQ</mount>
+  <destinataryid>112Bg4433Hddsss4433I34</destinataryid>
+  <mediacard>mastercard</mediacard>
+</transfer>
+  <transfer>
+    <systemname>buytransfer325</systemname>
+    <localisation>0116</localisation>
+    <clientid>778444fgt775556</clientid>
+    <mount>190.00GTQ</mount>
+    <destinataryid>96645dRer778444</destinataryid>
+    <mediacard>visa</mediacard>
+  </transfer>
+  <transfer>
+    <systemname>requisition326</systemname>
+    <localisation>0126</localisation>
+    <clientid>73423432AR99OPER6</clientid>
+    <mount>26.50GTQ</mount>
+    <destinataryid>755FRTY12AXC444</destinataryid>
+    <mediacard>visa</mediacard>
+  </transfer>
+</transferences>

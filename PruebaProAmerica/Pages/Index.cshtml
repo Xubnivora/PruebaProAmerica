@@ -1,0 +1,46 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Login";
+
+
+
+}
+
+<div class="text-center">
+    <h1 class="display-4">Login</h1>
+    <body style="background-color: palegreen; font-family: Verdana, Arial;">
+
+    <form  method="post">
+        <p>
+            <label for="user_name">Usuario: </label><br>
+                <input type="text" asp-for="@Model.validacion.user_name" />
+                <span asp-validation-for="@Model.validacion.user_name" class="error"></span>
+        </p>
+        <p>
+            <label for="passwordus">Password:</label><br>
+                <input type="password" asp-for="@Model.validacion.passwordus" />
+                <span asp-validation-for="@Model.validacion.passwordus" class="error"></span>
+        </p>
+        <p><input type="submit" value="ingresar" /></p>
+    </form>
+
+
+        </body>
+
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
